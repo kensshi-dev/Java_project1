@@ -11,15 +11,16 @@ Input:
 
 Users can provide a text file path or manually input the text for analysis.
 The program provides a menu for the following analysis options:
-Total word count: Counts all words in the text.
-Unique word count: Counts only the unique words in the text.
-Average word length: Calculates the average length of words.
-Sentence count: Counts the number of sentences based on punctuation.
-Most frequent words: (Incomplete functionality; still under development).
-Longest word: Finds the longest word in the text.
-Shortest word: Finds the shortest word in the text.
-Percentage of unique words: Calculates the percentage of unique words out of total words.
-Output:
+1.Total word count: Counts all words in the text.
+2.Unique word count: Counts only the unique words in the text.
+3.Average word length: Calculates the average length of words.
+4.Sentence count: Counts the number of sentences based on punctuation.
+5.Most frequent words: (Incomplete functionality; still under development).
+6.Longest word: Finds the longest word in the text.
+7.Shortest word: Finds the shortest word in the text.
+8.Percentage of unique words: Calculates the percentage of unique words out of total words.
 
+
+Output:
 The program will output the result based on the user’s choice, such as word count, average word length, etc.
 After displaying the result, the user is prompted to continue with another analysis or exit.
