@@ -1,0 +1,25 @@
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+
+# Eclipse project files
+*.classpath
+*.project
+*.settings/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+out/
+
+# Gradle & Maven
+target/
+build/
+.gradle/
+.mvn/
+
+# JAR/WAR files
+*.jar
+*.war
